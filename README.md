@@ -5,16 +5,16 @@ Welcome to my Data Analyst portfolio! This repository contains a collection of p
 # Project Categories
 
 1. Excel Projects: Data cleaning and visualization using Excel Power Query and Power Pivot.
-° Folder: Excel-Projects
+- Folder: Excel-Projects
 
 2. Pandas Projects: Data cleaning and aggregation using Pandas and Matplotlib.
-- Folder: Pandas-Projects/
+- Folder: Pandas-Projects
 
 3. SQL + Power BI Projects: Data analysis and visualization using SQL and Power BI.
-- Folder: SQL-PowerBI-Projects/
+- Folder: SQL-PowerBI-Projects
 
 4. Power BI Reports: Standalone Power BI dashboards and reports.
-- Folder: PowerBI-Reports/
+- Folder: PowerBI-Reports
 
 # How to Use This Repository
 - Each category folder contains project-specific folders, each with a README.md providing detailed information for each project.
